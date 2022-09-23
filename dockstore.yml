@@ -4,4 +4,4 @@ workflows:
      primaryDescriptorPath: vcf-to-gds.wdl
      testParameterFiles:
          - /vcf-to-gds/vcf-to-gds-terra.json
-     name: vcf-to-gds-wdl
+     name: vcf-to-gds-wdl-test
