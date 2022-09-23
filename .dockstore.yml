@@ -3,5 +3,5 @@ workflows:
    - subclass: WDL
      primaryDescriptorPath: vcf-to-gds.wdl
      testParameterFiles:
-         - /vcf-to-gds-terra.json
-     name: vcf-to-gds-wdl-test
+         - vcf-to-gds-terra.json
+     name: vcf-to-gds-wdl
